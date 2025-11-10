@@ -1,0 +1,89 @@
+﻿@{
+    ViewBag.Title = "Đăng Ký Tài Khoản";
+    Layout = "~/Views/Shared/Login.cshtml"; 
+}
+
+<div class="container my-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-7">
+            <div class="card shadow-lg border-0 rounded-lg">
+                <div class="card-header">
+                    <h3 class="text-center font-weight-light my-4">Tạo Tài Khoản Mới</h3>
+                </div>
+                <div class="card-body">
+
+                    <form method="post" action="/SanPhams/CreateLogin">
+
+                        @Html.AntiForgeryToken()
+
+                        @if (!ViewData.ModelState.IsValid)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                Vui lòng kiểm tra lại các thông tin bạn đã nhập.
+                            </div>
+                        }
+
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input class="form-control" id="inputHo" name="Ho" type="text" placeholder="Họ" required />
+                                    <label for="inputHo">Họ</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input class="form-control" id="inputTen" name="Ten" type="text" placeholder="Tên" required />
+                                    <label for="inputTen">Tên</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input class="form-control" id="inputEmail" name="Email" type="email" placeholder="Email" required />
+                            <label for="inputEmail">Email</label>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input class="form-control" id="inputSoDienThoai" name="SoDienThoai" type="tel" placeholder="Số điện thoại" />
+                            <label for="inputSoDienThoai">Số điện thoại</label>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input class="form-control" id="inputDiaChi" name="DiaChi" type="text" placeholder="Địa chỉ" />
+                            <label for="inputDiaChi">Địa chỉ</label>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input class="form-control" id="inputPassword" name="MatKhau" type="password" placeholder="Mật khẩu" required />
+                            <label for="inputPassword">Mật khẩu</label>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input class="form-control" id="inputConfirmPassword" name="ConfirmPassword" type="password" placeholder="Xác nhận mật khẩu" required />
+                            <label for="inputConfirmPassword">Xác nhận mật khẩu</label>
+
+                            @if (ViewBag.PasswordError != null)
+                            {
+                                <div class="text-danger small mt-1">
+                                    @ViewBag.PasswordError
+                                </div>
+                            }
+                        </div>
+
+                        <div class="mt-4 mb-0">
+                            <div class="d-grid">
+                                <button type="submit" class="btn btn-primary btn-block rounded-pill py-3">Tạo Tài Khoản</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="card-footer text-center py-3">
+                    <div class="small">
+                        @Html.ActionLink("Đã có tài khoản? Đăng nhập ngay", "Login", "SanPhams")
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\views\\sanphams\\createlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\sanphams\\createlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\views\\sanphams\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\sanphams\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\models\\qlbanhang.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\models\\qlbanhang.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\ducmanh\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\webbanhangonline\\webbanhangonline\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E2666C2-21DB-4748-AB8B-BA9DCBC22430}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebBanHangOnline\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:53:00.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\SanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\SanPhams\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\SanPhams\\Create.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\SanPhams\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAEIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:14:18.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\SanPhams\\CreateLogin.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\SanPhams\\CreateLogin.cshtml",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\SanPhams\\CreateLogin.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\SanPhams\\CreateLogin.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:10:18.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\SanPhams\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\SanPhams\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\SanPhams\\Login.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\SanPhams\\Login.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBYAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T12:59:48.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\SanPhamsController.cs*",
+              "RelativeToolTip": "WebBanHangOnline\\Controllers\\SanPhamsController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:48:57.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\Shared\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Shared\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\Shared\\Login.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Shared\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T12:56:56.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\SanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\SanPhams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\SanPhams\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\SanPhams\\Index.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T12:49:04.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Models\\SanPham.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:48:31.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLBanHang.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Models\\QLBanHang.edmx",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\QLBanHang.edmx",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Models\\QLBanHang.edmx [Diagram1]",
+              "RelativeToolTip": "WebBanHangOnline\\Models\\QLBanHang.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-10T12:42:47.832Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAQwNIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T12:19:14.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\packages.config",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\packages.config",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\packages.config",
+              "RelativeToolTip": "WebBanHangOnline\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-10T12:12:40.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "shop.html",
+              "DocumentMoniker": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\shop.html",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\shop.html",
+              "ToolTip": "C:\\Users\\Ducmanh\\OneDrive\\M\u00E1y t\u00EDnh\\DoanLTW\\WebBanHangOnline\\WebBanHangOnline\\shop.html",
+              "RelativeToolTip": "WebBanHangOnline\\shop.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-10T12:12:39.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
